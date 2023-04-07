@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :  "Mississippi State Univeristy"
+  employer         : "Mississippi State Univeristy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=iSMtDMsAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Okikiola-Alegbeleye"
+  researchgate     : "https://www.researchgate.net/profile/Okikiola-Alegbeleye"
   uri              :
   bitbucket        :
   codepen          :
