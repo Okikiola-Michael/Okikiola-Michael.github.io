@@ -11,49 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. Forestry, University of Ibadan, 2020
+* M.S. in Forestry (Forest Biometrics and Remote Sensing), Mississippi State University, 2023
+* Ph.D. (Coming soon)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research/Teaching Assistant, Department of Forestry, Mississippi State University. 2022-2023
+  * I am working on the research topic “Small Area Estimation of County Based Forest Attributes using Forest Inventory Data
+      and Remotely Sensed as Auxiliary Information”. The research focuses on modeling forest attributes (Above Ground
+      Biomass; Total Volume; Merchantable Volume; Lorey’s Height and Basal Area) using Forest Inventory and Analysis (FIA) data with remotely sensed data.
+  * Advanced data analysis using the R programming language
+  * I anchored a lab session that trained students on the use of the Forest Vegetation Simulator (FVS) for growth and yield modeling.
+  
+* Research Assistant/Lab Manager, Forest Biometrics/GIS Lab, University of Ibadan. 2021
+  * I worked as the team leader for spatial and forest Inventory data collection.
+  * I served as a remote sensing data analyst. I worked as a UAV pilot and flew DJI Phantom 4 Pro II and analyzed both aerial and satellite images.
+  * I was involved in grading and recording assessments and in taking tutorials for the students.
+  
+* Research Intern, University of Ibadan 2019
+  * I served as an intern in the Geographic Information Systems laboratory. Some of the analyses carried out include, Land use/land cover classification using remote sensing, an ecological survey of forest tree species, and statistical analyses of forest inventory data.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern, Forestry Institute of Nigeria (FRIN) 2018
+  * Forest Inventory and Enumeration
+  * Land use/land cover classification using remote sensing
+  * An ecological survey of forest tree species
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical
+  * R Programming language
+  * Python (Beginner)
+  * Forest Vegetation Simulator (FVS)
+  * SPSS
+  * Excel
+* GIS and Remote sensing
+  * Drones
+  * Google Earth Engine
+  * Agisoft Metashape
+  * R 
+  * QGIS
+  * ArcGIS Pro
+  * ArcMap
+  * Google Earth
+  * TerSet
+  * ArcGIS Online
+  * ArcGIS Survey
+ 
+* Organizational
+  * Leadership 
+  * Observatory & Analytical skills
+  * Excellent team player
+  * Good command of Microsoft PowerPoint Microsoft Word Microsoft Excel
+  * Innovation and Creativity
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See full CV [here](https://drive.google.com/file/d/1tHuj0hBJjlKs__05Iq-jfzjfM6H-2KMd/view)
+
