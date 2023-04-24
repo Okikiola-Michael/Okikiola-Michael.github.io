@@ -1,15 +1,8 @@
----
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+Alegbeleye O. M. and ALO A.A. (2020). Factors Influencing Spatio-Temporal Variation of Urban
+Green Space in Ado-Ekiti Metropolis, Proceedings of the 3rd Annual Conference of the Commonwealth
+Forestry Association, Nigeria Chapter, Federal University of Technology, Akure, Nigeria, 2 – 3
+December 2020, Pp. 198 -206.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://www.cfa-international.org/userfiles/files/Proceedings%203RD%20CFA%20CONFERENCE.%20FUTA%202020.%20PDF%20-%20Nigeria%20meeting.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+, 
