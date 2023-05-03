@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B. Forestry, University of Ibadan, 2020
-* M.S. in Forestry (Forest Biometrics and Remote Sensing), Mississippi State University, 2023
-* Ph.D. (Coming soon)
+=========
+* Ph.D. Environmental and Natural Resources, Washington State University, (2023 - 2026).
+* M.S. in Forestry (Forest Biometrics and Remote Sensing), Mississippi State University, (2021 - 2023).
+* B. Forestry, University of Ibadan, (2015 - 2020).
 
 Work experience
-======
+=========
 * Research/Teaching Assistant, Department of Forestry, Mississippi State University. 2022-2023
   * I am working on the research topic “Small Area Estimation of County Based Forest Attributes using Forest Inventory Data
       and Remotely Sensed as Auxiliary Information”. The research focuses on modeling forest attributes (Above Ground
